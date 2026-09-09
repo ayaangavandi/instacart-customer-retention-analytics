@@ -267,6 +267,6 @@ More detailed project documentation is available in:
 
 **Ayaan Gavandi** — Aspiring Product / Data Analyst
 
-📧 `your.email@example.com`  
+📧 `ayaangavandi33@gmail.com`  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayaan-gavandi-a16202218/)  
 💻 [GitHub](https://github.com/ayaangavandi)
