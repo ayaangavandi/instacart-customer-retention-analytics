@@ -1,0 +1,81 @@
+antecedents,consequents,support,confidence,lift
+Organic Yellow Onion,Organic Garlic,0.0117,0.1946,3.3526
+Organic Garlic,Organic Yellow Onion,0.0117,0.2011,3.3526
+Large Lemon,Limes,0.0145,0.1795,2.4141
+Limes,Large Lemon,0.0145,0.1949,2.4141
+Organic Hass Avocado,Organic Lemon,0.0112,0.0995,2.144
+Organic Lemon,Organic Hass Avocado,0.0112,0.2421,2.144
+Organic Strawberries,Organic Raspberries,0.0179,0.1279,1.7654
+Organic Raspberries,Organic Strawberries,0.0179,0.2471,1.7654
+Organic Avocado,Large Lemon,0.0129,0.1381,1.7108
+Large Lemon,Organic Avocado,0.0129,0.1599,1.7108
+Organic Blueberries,Organic Strawberries,0.0126,0.2374,1.6964
+Organic Strawberries,Organic Blueberries,0.0126,0.0898,1.6964
+Limes,Organic Avocado,0.0116,0.1565,1.6741
+Organic Avocado,Limes,0.0116,0.1245,1.6741
+Organic Hass Avocado,Organic Raspberries,0.0136,0.1208,1.6664
+Organic Raspberries,Organic Hass Avocado,0.0136,0.1882,1.6664
+Organic Yellow Onion,Organic Hass Avocado,0.0105,0.1757,1.5557
+Organic Hass Avocado,Organic Yellow Onion,0.0105,0.0933,1.5557
+Organic Large Extra Fancy Fuji Apple,Bag of Organic Bananas,0.0124,0.3108,1.5493
+Bag of Organic Bananas,Organic Large Extra Fancy Fuji Apple,0.0124,0.0616,1.5493
+Organic Zucchini,Organic Baby Spinach,0.0108,0.1948,1.5225
+Organic Baby Spinach,Organic Zucchini,0.0108,0.0844,1.5225
+Organic Fuji Apple,Banana,0.0179,0.3787,1.5156
+Banana,Organic Fuji Apple,0.0179,0.0718,1.5156
+Organic Baby Spinach,Organic Garlic,0.0111,0.0868,1.4952
+Organic Garlic,Organic Baby Spinach,0.0111,0.1913,1.4952
+Bag of Organic Bananas,Organic Raspberries,0.0214,0.1067,1.4729
+Organic Raspberries,Bag of Organic Bananas,0.0214,0.2955,1.4729
+Bag of Organic Bananas,Organic Hass Avocado,0.033,0.1643,1.4548
+Organic Hass Avocado,Bag of Organic Bananas,0.033,0.2919,1.4548
+Honeycrisp Apple,Banana,0.015,0.3561,1.4253
+Banana,Honeycrisp Apple,0.015,0.0601,1.4253
+Bag of Organic Bananas,Apple Honeycrisp Organic,0.0125,0.0624,1.3892
+Apple Honeycrisp Organic,Bag of Organic Bananas,0.0125,0.2787,1.3892
+Organic Baby Spinach,Organic Avocado,0.0163,0.1277,1.3657
+Organic Avocado,Organic Baby Spinach,0.0163,0.1747,1.3657
+Organic Hass Avocado,Organic Strawberries,0.0216,0.191,1.3647
+Organic Strawberries,Organic Hass Avocado,0.0216,0.1541,1.3647
+Organic Yellow Onion,Organic Baby Spinach,0.0104,0.1737,1.3583
+Organic Baby Spinach,Organic Yellow Onion,0.0104,0.0815,1.3583
+Bag of Organic Bananas,Organic Cucumber,0.0114,0.0568,1.3351
+Organic Cucumber,Bag of Organic Bananas,0.0114,0.2679,1.3351
+Cucumber Kirby,Banana,0.017,0.3298,1.32
+Banana,Cucumber Kirby,0.017,0.0679,1.32
+Organic Gala Apples,Bag of Organic Bananas,0.01,0.2602,1.2971
+Bag of Organic Bananas,Organic Gala Apples,0.01,0.05,1.2971
+Organic Hass Avocado,Organic Baby Spinach,0.0185,0.1634,1.2775
+Organic Baby Spinach,Organic Hass Avocado,0.0185,0.1443,1.2775
+Organic Lemon,Bag of Organic Bananas,0.0118,0.2551,1.2714
+Bag of Organic Bananas,Organic Lemon,0.0118,0.059,1.2714
+Organic Hass Avocado,Limes,0.0106,0.0938,1.2612
+Limes,Organic Hass Avocado,0.0106,0.1424,1.2612
+Organic Strawberries,Organic Whole Milk,0.0126,0.09,1.2338
+Organic Whole Milk,Organic Strawberries,0.0126,0.1727,1.2338
+Organic Avocado,Banana,0.0282,0.302,1.2086
+Banana,Organic Avocado,0.0282,0.113,1.2086
+Banana,Seedless Red Grapes,0.013,0.052,1.1903
+Seedless Red Grapes,Banana,0.013,0.2974,1.1903
+Organic Baby Spinach,Large Lemon,0.0121,0.0943,1.168
+Large Lemon,Organic Baby Spinach,0.0121,0.1494,1.168
+Bag of Organic Bananas,Organic Strawberries,0.0326,0.1624,1.1605
+Organic Strawberries,Bag of Organic Bananas,0.0326,0.2328,1.1605
+Yellow Onions,Banana,0.0112,0.2893,1.1579
+Banana,Yellow Onions,0.0112,0.0448,1.1579
+Limes,Organic Baby Spinach,0.011,0.1477,1.155
+Organic Baby Spinach,Limes,0.011,0.0859,1.155
+Banana,Strawberries,0.0218,0.0873,1.1543
+Strawberries,Banana,0.0218,0.2884,1.1543
+Organic Strawberries,Organic Baby Spinach,0.0202,0.1441,1.1263
+Organic Baby Spinach,Organic Strawberries,0.0202,0.1576,1.1263
+Bag of Organic Bananas,Organic Blueberries,0.0116,0.0576,1.0893
+Organic Blueberries,Bag of Organic Bananas,0.0116,0.2185,1.0893
+Bag of Organic Bananas,Organic Yellow Onion,0.013,0.0648,1.0798
+Organic Yellow Onion,Bag of Organic Bananas,0.013,0.2167,1.0798
+Bag of Organic Bananas,Organic Zucchini,0.012,0.0596,1.0761
+Organic Zucchini,Bag of Organic Bananas,0.012,0.2159,1.0761
+Banana,Large Lemon,0.0216,0.0865,1.0717
+Large Lemon,Banana,0.0216,0.2678,1.0717
+Bag of Organic Bananas,Organic Baby Spinach,0.0266,0.1328,1.0378
+Organic Baby Spinach,Bag of Organic Bananas,0.0266,0.2082,1.0378
